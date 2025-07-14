@@ -106,4 +106,29 @@ footer {
     border-radius: 12px;
     padding: 2rem;
     text-align: center;
+  }
+  
+  .logo-container {
+    max-width: 350px;
+    margin: 0 auto;
+  }
+  
+  .logo-grande {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 10px;
+  }
+
+  
+  .servicos li a {
+    color: #4caf50;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.2s;
+  }
+  
+  .servicos li a:hover {
+    color: #81c784;
+  }
   
